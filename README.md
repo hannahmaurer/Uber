@@ -166,3 +166,45 @@ server <- function(input, output) {
 ```
 shinyApp(ui = ui, server = server)
 ```
+## Charts
+1. Pivot table - Trips by Hour
+<img width="619" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/b58dffd3-78f0-4f82-876d-fc11d11d304f">
+
+2. Trips by Hour and Month
+<img width="611" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/9493c1eb-bb2e-4bb3-a1f0-21f6a2b3db7c">
+
+3. Trips Every Hour
+<img width="609" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/88ec743c-812d-4f25-b2f9-99c84afc2f6f">
+
+4. Trips by Day of Month
+<img width="615" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/8ade7c8b-33de-4f6d-87c8-b156d54a4ac9">
+
+5. Pivot Table - Trips Every Day
+<img width="617" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/bf4c68ee-d9b7-499a-8859-08cfd859a641">
+
+6. Trips by Day and Month
+<img width="611" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/a0420e7b-de3d-4ba6-95ed-132383363c9f">
+
+7. Trips by Month
+<img width="619" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/0f0876ec-a144-4d99-85e7-cf8c92177b33">
+
+8. Trips By Bases and Month
+<img width="610" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/f0477365-9b9a-451d-aec8-b2a6ac141688">
+
+9. Heat Map by Hour and Day
+<img width="613" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/202ae48c-607a-4ce4-a357-13a7b4b4afbd">
+
+10. Heat Map by Month and Day 
+<img width="613" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/e5a431eb-6246-4283-8b86-a6fe583d2daf">
+
+11. Heat Map by Month and Week
+<img width="605" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/8f157a3e-6a60-46e8-afcc-b5055710812f">
+
+12. Heat Map by Month and Week
+<img width="605" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/f9fc781c-4c71-44b7-b024-1f4c27f079fc">
+
+13. Heat Map by Bases and Day of Week
+<img width="618" alt="image" src="https://github.com/hannahmaurer/Uber/assets/159860800/c1694b41-39ac-44ba-b57e-f4a22e1b7d62">
+
+
+
